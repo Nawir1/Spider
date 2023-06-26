@@ -4,13 +4,13 @@ In cybersecurity, reconnaissance is the practice of covertly discovering and col
 
 Spider tool features :
 ----------------------
--Test and verify if a particular destination IP address exists
--Identifies and fingerprints Web Application Firewall (WAF) products
--Determine all the open ports related to a web server
--Identify and recognize all the web technologies available on the target website
--audit the security of your web applications
--logging all results into a summary file
--combine many recon tools into a single interface
+- Test and verify if a particular destination IP address exists
+- Identifies and fingerprints Web Application Firewall (WAF) products
+- Determine all the open ports related to a web server
+- Identify and recognize all the web technologies available on the target website
+- audit the security of your web applications
+- logging all results into a summary file
+- combine many recon tools into a single interface
 
   
 
