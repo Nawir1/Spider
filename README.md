@@ -1,11 +1,23 @@
 # Spider
-Recon tool that tests and verify if a particular destination IP address exists, identifies and fingerprints Web Application Firewall (WAF) products, determine all the open ports related to a web server, and identify and recognize all the web technologies available on the target website.
-To run the tools you need to use linux operating system
+In cybersecurity, reconnaissance is the practice of covertly discovering and collecting information about a system. This method is often used in ethical hacking or penetration testing.
+============================================================
+
+Spider tool features :
+----------------------
+-Test and verify if a particular destination IP address exists
+-Identifies and fingerprints Web Application Firewall (WAF) products
+-Determine all the open ports related to a web server
+-Identify and recognize all the web technologies available on the target website
+-audit the security of your web applications
+-logging all results into a summary file
+-combine many recon tools into a single interface
 
   
-Recon tool (Spider):
+============================================================
+  
 
 you need to install the following:
+----------------------------------
 
 -nmap 
 -wafw00f
@@ -15,6 +27,17 @@ you need to install the following:
 
 
 To run  Spider tool copy this :
+----------------------------------
 
 python3 sicon.py -u scanme.nmap.org
+
+============================================================
+
+Authors :
+---------
+Nawir Aldossary 
+Fay Alshammari 
+Lama Alqahtani 
+Raghad Alamoud 
+Nouf Alghamdi 
 
