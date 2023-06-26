@@ -1,6 +1,6 @@
 # Spider
 In cybersecurity, reconnaissance is the practice of covertly discovering and collecting information about a system. This method is often used in ethical hacking or penetration testing.
-============================================================
+--------------------
 
 Spider tool features :
 ----------------------
@@ -13,7 +13,7 @@ Spider tool features :
 -combine many recon tools into a single interface
 
   
-============================================================
+
   
 
 you need to install the following:
@@ -31,13 +31,13 @@ To run  Spider tool copy this :
 
 python3 sicon.py -u scanme.nmap.org
 
-============================================================
+
 
 Authors :
 ---------
-Nawir Aldossary 
-Fay Alshammari 
-Lama Alqahtani 
-Raghad Alamoud 
-Nouf Alghamdi 
+- Nawir Aldossary 
+- Fay Alshammari 
+- Lama Alqahtani 
+- Raghad Alamoud 
+- Nouf Alghamdi 
 
